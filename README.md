@@ -80,7 +80,7 @@ ollama pull qwen2.5:32b
 python3 脚本名.py
 例如：python script_hybrid_v5.py
 
-注意事项
+## 注意事项
 运行前请确保 Ollama 服务已启动且模型已下载
 
 处理大批量数据时建议关闭其他大型应用，确保内存充足
