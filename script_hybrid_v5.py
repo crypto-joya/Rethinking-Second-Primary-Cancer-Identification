@@ -15,8 +15,8 @@ API_URL = "http://localhost:11434/api/generate"
 MODEL_EXTRACT = "deepseek-r1:32b"
 MODEL_REASON = "deepseek-r1:32b"
 INPUT_FILE = "LLM_input_timeline_annotated_anonymized.csv"
-OUTPUT_FILE = "output_hybrid_no_rule_v5.csv"
-ERROR_LOG = "error_log_hybrid_no_rule_v5.txt"
+OUTPUT_FILE = "output_hybrid_v5.csv"
+ERROR_LOG = "error_log_hybrid_v5.txt"
 MAX_RETRIES = 3
 TIMEOUT = 720
 
